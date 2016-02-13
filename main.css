@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+  margin: 0;
+}
+.center{
+  background: white;
+  width: 30%;
+  margin:1% 30%;
+  padding: 2% 5%;	
+}
+.title{
+  margin-top: 20px;	
+}
+h1{
+  text-align: center
+}
+.foto{
+  text-align: center;
+}
+.info{
+  font-size: 20px;
+}
